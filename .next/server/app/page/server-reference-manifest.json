@@ -1,0 +1,20 @@
+{
+  "node": {
+    "60c0645c1efbba901e099dd151d1ca7f7825e2bfd6": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/Meta_Morph-main/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/Meta_Morph-main/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "generateDescriptionAction",
+          "filename": "Meta_Morph-main/src/app/actions.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "generateDescriptionAction",
+      "filename": "Meta_Morph-main/src/app/actions.ts"
+    }
+  },
+  "edge": {}
+}
